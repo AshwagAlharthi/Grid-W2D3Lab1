@@ -35,7 +35,7 @@ li {
 }
 
 .item3{
-    grid-column: 8/11;
+    grid-column: 9/11;
     grid-row: 2/4;
     background-color: #fcf4d0;
     font-size: 4rem;
